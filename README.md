@@ -1,6 +1,6 @@
 Victor Hugo Torres Saldonas
 
-1 - mostra a data 
+# 1 - mostra a data 
 #!/bin/bash: Define o interpretador que executará o script (Bash)
 $(date): executa o comando date, que retorna a data e hora atual no formato padrão
 echo: exibe a mensagem com o resultado do date
@@ -12,7 +12,7 @@ echo "Diretório inicial: $HOME"
 a variável $HOME contém o diretório inicial (home) desse usuário
 
 
-#3 - organizador
+# 3 - organizador
 #!/bin/bash
 define o interpretador Bash para o script
 mkdir -p imagens e mkdir -p documentos
